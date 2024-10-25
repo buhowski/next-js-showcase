@@ -2,7 +2,7 @@
 
 Using Next.js and NextUI for styling
 
-Demo: https://github.com/buhowski/next-js-showcase
+Demo: https://next-js-next-ui-showcase.vercel.app
 
 ## Requirements
 
