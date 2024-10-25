@@ -2,6 +2,8 @@
 
 Using Next.js and NextUI for styling
 
+Demo: https://github.com/buhowski/next-js-showcase
+
 ## Requirements
 
 Node.js v20 or higher
