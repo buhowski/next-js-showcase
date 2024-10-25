@@ -27,10 +27,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Project Structure
 
 ```bash
-├── pages/                    # Next.js pages
-│   ├── index.tsx             # Main HomePage displaying the list of posts + Modal Post Details
-├── package.json              # Project dependencies and scripts
-├──etc...
+├── app/                    # Next.js pages
+│   ├── page.tsx            # Main HomePage displaying the list of posts + Modal Post Details
+├── package.json            # Project dependencies and scripts
+├── etc...
 
 
 ```
