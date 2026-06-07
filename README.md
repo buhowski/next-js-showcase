@@ -1,7 +1,5 @@
 # Next.js Showcase
 
-Using NextUI for styling
-
 Live Demo: https://next-js-ui-showcase.vercel.app/
 
 ## Prerequisites
