@@ -1,10 +1,10 @@
 # Next.js Showcase
 
-Live Demo: https://next-js-ui-showcase.vercel.app/
+Live Demo: https://next-js-data-showcase.vercel.app
 
 ## Prerequisites
 
-- Node.js: = 20
+- Node.js = 20
 
 ## Quick Start
 
