@@ -1,5 +1,7 @@
 # Next.js Showcase
 
+REST API data fetching, dynamic rendering, modal UI
+
 Live Demo: https://next-js-data-showcase.vercel.app
 
 ## Prerequisites
