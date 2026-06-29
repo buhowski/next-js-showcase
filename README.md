@@ -1,8 +1,8 @@
 # Front-End Showcase
 
-REST API data fetching, dynamic rendering, modal UI
+Post list page with details opening in a modal.
 
-Live Demo: [https://next-js-modal-ui-showcase.vercel.app](https://next-js-modal-ui-showcase.vercel.app)
+Live: [https://next-js-modal-ui-showcase.vercel.app](https://next-js-modal-ui-showcase.vercel.app)
 
 ## Prerequisites
 
