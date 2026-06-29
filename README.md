@@ -2,7 +2,7 @@
 
 REST API data fetching, dynamic rendering, modal UI
 
-Live Demo: https://next-js-data-showcase.vercel.app
+Live Demo: [https://next-js-modal-ui-showcase.vercel.app](https://next-js-modal-ui-showcase.vercel.app)
 
 ## Prerequisites
 
