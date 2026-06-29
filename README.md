@@ -1,4 +1,4 @@
-# Next.js Showcase
+# Front-End Showcase
 
 REST API data fetching, dynamic rendering, modal UI
 
